@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://biswajit-portfolio.netlify.app/sitemap.xml
+Sitemap: https://bsahoo8342.github.io/biswajit/assets/sitemap.xml
